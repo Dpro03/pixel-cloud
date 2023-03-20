@@ -1,3 +1,8 @@
+body {
+  background-color: slategray;
+}
+
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
