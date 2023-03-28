@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pixel-cloud/static/css/main.ac52445a.css",
+    "main.js": "/pixel-cloud/static/js/main.96ad1f61.js",
+    "index.html": "/pixel-cloud/index.html",
+    "main.ac52445a.css.map": "/pixel-cloud/static/css/main.ac52445a.css.map",
+    "main.96ad1f61.js.map": "/pixel-cloud/static/js/main.96ad1f61.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac52445a.css",
+    "static/js/main.96ad1f61.js"
+  ]
+}
