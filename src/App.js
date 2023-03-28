@@ -3,6 +3,7 @@ import Jumbotron from "./components/jumbotron";
 import SearchField from "./components/searchField";
 import Images from "./components/images";
 import useAxios from "./hooks/useAxios";
+// import Dropzone from "./components/Dropzone";
 
 // create context
 export const ImageContext = createContext();
@@ -30,6 +31,8 @@ function App()  {
       <Images />
     </ImageContext.Provider>
   );
+  // <Dropzone/>
+
 };
 
 export default App;

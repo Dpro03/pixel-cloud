@@ -26,13 +26,14 @@ const SearchField = () => {
   };
 
   return (
-    <div className="flex">
-      <br></br>
-      📸
+    <div className="flex w-full ml-12">
+      {/* <span role="img" aria-label="camera" className="mt-0.8">
+        📸
+      </span> */}
       <input
-        className="bg-gray-50 border-gray-800 text-sm w-full
+        className="search-input bg-gray-50 border-gray-800 text-sm w-full
         indent-2 p-2.5 outline-none focus:border-gray-800 focus:ring-2
-        rounded-tl rounded-bl"
+        rounded-tl rounded-bl ml-8"
         type="search"
         placeholder="Search for anything...."
         value={searchValue}
