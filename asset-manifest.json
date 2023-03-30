@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/pixel-cloud/static/css/main.054c2117.css",
+    "main.css": "/pixel-cloud/static/css/main.95e8f7af.css",
     "main.js": "/pixel-cloud/static/js/main.17400a68.js",
     "index.html": "/pixel-cloud/index.html",
-    "main.054c2117.css.map": "/pixel-cloud/static/css/main.054c2117.css.map",
+    "main.95e8f7af.css.map": "/pixel-cloud/static/css/main.95e8f7af.css.map",
     "main.17400a68.js.map": "/pixel-cloud/static/js/main.17400a68.js.map"
   },
   "entrypoints": [
-    "static/css/main.054c2117.css",
+    "static/css/main.95e8f7af.css",
     "static/js/main.17400a68.js"
   ]
 }
